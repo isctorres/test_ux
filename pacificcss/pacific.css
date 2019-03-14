@@ -1,0 +1,19 @@
+body{
+    background-color: #FFFFFF;
+    color: #666666;
+    font-family: Verdana, Arial, sans-serif;
+}
+
+header{
+    background-color: #000033;
+    color: #FFFFFF;
+    font-family: Georgia, serif;
+}
+
+h1{
+    height: 200%;
+}
+
+nav{
+    background-color: #90C7E3;
+}
