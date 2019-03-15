@@ -16,4 +16,32 @@ h1{
 
 nav{
     background-color: #90C7E3;
+    font-weight: bold;
+}
+
+h2{
+    color: #3399CC;
+    font-family: Georgia, serif;
+}
+
+dt{
+    color: #000033;
+    font-weight: bold;
+}
+
+.resort{
+    color: #000033;
+    font-size: 1.2em;
+}
+
+footer{
+    font-size: .70em;
+    text-align: center;
+    font-style: italic;
+}
+
+#wrapper{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
 }
